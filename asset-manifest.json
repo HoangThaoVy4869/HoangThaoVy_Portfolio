@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/HoangThaoVy_Portfolio/static/css/main.4dad99e8.css",
+    "main.js": "/HoangThaoVy_Portfolio/static/js/main.52b5c67f.js",
+    "static/media/me7.png": "/HoangThaoVy_Portfolio/static/media/me7.414c005cf38e37730af4.png",
+    "static/media/github3.png": "/HoangThaoVy_Portfolio/static/media/github3.b5e88e8d263b9d5b03d5.png",
+    "static/media/github2.png": "/HoangThaoVy_Portfolio/static/media/github2.985a9d7302b4221d77a6.png",
+    "static/media/github1.png": "/HoangThaoVy_Portfolio/static/media/github1.350d541dfc98775bd421.png",
+    "static/media/github5.png": "/HoangThaoVy_Portfolio/static/media/github5.beb23599a9311eef9526.png",
+    "static/media/github.png": "/HoangThaoVy_Portfolio/static/media/github.110b5092c8c00f442238.png",
+    "static/media/ngaos.png": "/HoangThaoVy_Portfolio/static/media/ngaos.ae54857d3affaf048016.png",
+    "static/media/HoangThaoVy_CV.pdf": "/HoangThaoVy_Portfolio/static/media/HoangThaoVy_CV.5c0492f0537a974576f3.pdf",
+    "static/media/bg4.jpg": "/HoangThaoVy_Portfolio/static/media/bg4.3f65461f2fa0005f5592.jpg",
+    "static/media/github4.png": "/HoangThaoVy_Portfolio/static/media/github4.cc0399d239f49a491d6e.png",
+    "index.html": "/HoangThaoVy_Portfolio/index.html",
+    "main.4dad99e8.css.map": "/HoangThaoVy_Portfolio/static/css/main.4dad99e8.css.map",
+    "main.52b5c67f.js.map": "/HoangThaoVy_Portfolio/static/js/main.52b5c67f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dad99e8.css",
+    "static/js/main.52b5c67f.js"
+  ]
+}
